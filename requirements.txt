@@ -1,3 +1,4 @@
 Plaintext
-joblib
 streamlit
+joblib
+scikit-learn
